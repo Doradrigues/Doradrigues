@@ -17,7 +17,7 @@
   <img align="middle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
 </div>
 
-
+<!--
 ## 🌐 Onde me encontrar
 
 <p align="left">
