@@ -2,7 +2,6 @@
 
 - 💻 Estudante de sistemas de informação
 - 🎨 Estou aprendendo front-end
-- 😊 Pronomes: Ela/Dela
 
 
 <p align="left">
