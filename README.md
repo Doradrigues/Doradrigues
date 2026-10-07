@@ -1,12 +1,12 @@
-## Ola!👋Me chamo Isadora Rezende
+## Ola👋Me chamo Isadora!
 
 - 💻 Estudante de sistemas de informação
 - 🎨 Estou aprendendo front-end
 
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Doradrigues&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doradrigues&layout=compact&theme=tokyonight" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Doradrigues&show_icons=true&theme=gruvbox&count_private=true" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doradrigues&layout=compact&theme=gruvbox" />
 <div>
   <img align="middle" width="90" src="https://github.com/Doradrigues/Doradrigues/blob/main/yumee1.gif?raw=true" />
   <img align="middle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
